@@ -4,6 +4,9 @@
 # name of the character.
 
 define e = Character("Eileen")
+define gouda = Character("Gouda" )
+define gin =  Character()
+
 
 
 # The game starts here.
